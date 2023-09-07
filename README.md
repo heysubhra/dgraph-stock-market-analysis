@@ -3,6 +3,12 @@
 ## Project Description
 Finding Similar Stocks using Graph Analytis in Neo4j.
 
+**Create a .env file with following details**
+- NEO4J_HOST=127.0.0.1
+- NEO4J_USER=neo4j
+- NEO4J_PASSWORD=neo4jpassword
+- STOCK_DATA=NASDAQ_DATA
+
 **Workflow:**
 
 1. Import Stock Data into Neo4j
