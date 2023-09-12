@@ -2,3 +2,6 @@
 .venv/*
 .ipynb_checkpoints/*
 NASDAQ_DATA/*
+Cypherl/*
+mgconsole
+commands.sh

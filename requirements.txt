@@ -1,7 +1,6 @@
 notebook
 python-dotenv
-ipython-cypher 
-neo4j 
-py2neo
-graphdatascience 
+gqlalchemy
 pandas
+urllib3==1.26.6
+pymgclient
