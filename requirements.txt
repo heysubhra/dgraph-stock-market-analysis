@@ -1,6 +1,8 @@
 notebook
 python-dotenv
-gqlalchemy
+pymgclient
 pandas
 urllib3==1.26.6
-pymgclient
+graph-notebook
+scikit-learn
+tslearn

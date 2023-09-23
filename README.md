@@ -23,3 +23,5 @@ Please use **Python version 3.9**
 1. [Diversify Your Stock Portfolio with Graph Analytics](https://neo4j.com/developer-blog/diversify-your-stock-portfolio-with-graph-analytics/)
 
 2. [Pattern-Driven Insights: Visualize Stock Volume Similarity with Neo4j and Power BI](https://medium.com/codex/pattern-driven-insights-visualize-stock-volume-similarity-with-neo4j-and-power-bi-13ca922acad1)
+
+https://www.markhneedham.com/blog/2014/04/19/neo4j-cypher-creating-a-time-tree-down-to-the-day/
